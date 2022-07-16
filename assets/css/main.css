@@ -2291,3 +2291,11 @@ body.is-preload #wrapper {
   font-style: italic;
   font-size: 1rem;
 }
+.skills-title {
+  font-size: 1.2rem;
+}
+.skills-image {
+  width: 105px;
+  height: 105px;
+  object-fit: contain;
+}
